@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Munca_Cristian_Ioan_ProiectContext"
+    }
+  }
+}
